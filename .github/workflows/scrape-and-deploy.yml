@@ -30,7 +30,7 @@ jobs:
       - name: Install scraper deps
         working-directory: ./scraper
         run: |
-          npm ci
+          npm install --no-fund --no-audit
           npx playwright install --with-deps
 
       - name: Run scraper
@@ -40,7 +40,7 @@ jobs:
       - name: Install web deps & build
         working-directory: ./web
         run: |
-          npm ci
+          npm install --no-fund --no-audit
           npm run build
 
       - name: Setup Pages
