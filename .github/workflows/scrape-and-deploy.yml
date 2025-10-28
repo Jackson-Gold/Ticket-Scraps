@@ -3,7 +3,7 @@ name: Scrape & Deploy Dashboard
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
+    - cron: "*/5 * * * *"  # every 30 minutes
 
 permissions:
   contents: read
