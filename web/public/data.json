@@ -1,0 +1,21 @@
+{
+  "currency": "USD",
+  "updatedAt": "2025-10-28T20:19:07.997166Z",
+  "prices": [
+    {
+      "site": "Vivid Seats",
+      "url": "https://www.vividseats.com/circoloco-tickets-brooklyn-brooklyn-storehouse-at-brooklyn-navy-yard-11-1-2025--concerts-dance-electronica/production/5949572?quantity=1",
+      "lowest": null
+    },
+    {
+      "site": "viagogo",
+      "url": "https://www.viagogo.com/Concert-Tickets/Dance-and-Electronic-Music/Circoloco-Ibiza-Tickets/E-159171757?backUrl=%2FConcert-Tickets%2FDance-and-Electronic-Music%2FCircoloco-Ibiza-Tickets&listingQty=1&quantity=1",
+      "lowest": null
+    },
+    {
+      "site": "StubHub",
+      "url": "https://www.stubhub.com/circoloco-ibiza-new-york-tickets-11-1-2025/event/159171757/?backUrl=%2Fcircoloco-tickets%2Fperformer%2F727916&quantity=1",
+      "lowest": null
+    }
+  ]
+}
