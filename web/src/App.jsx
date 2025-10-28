@@ -14,7 +14,7 @@ function usePrices() {
     try {
       setLoading(true);
       const bust = Date.now();
-      const res = await fetch(`/data.json?bust=${bust}`);
+      const res = await fetch(`./data.json?bust=${bust}`);
       const json = await res.json();
       setData(json);
       setError(null);
