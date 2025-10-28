@@ -47,7 +47,8 @@ export default function App() {
       <div className="header">
         <div>
           <div className="title">Circoloco Ticket Price Dashboard</div>
-          <div className="subtitle">Shows the lowest all-in prices found on the three sites you shared.</div>
+          <div className="subtitle">Shows the lowest all-in prices found on the three.</div>
+          <div className="subtitle">Lex! Jose! You guys should come! Will be fun!</div>
         </div>
         <button className="refresh-btn" onClick={refetch}>Refresh</button>
       </div>
